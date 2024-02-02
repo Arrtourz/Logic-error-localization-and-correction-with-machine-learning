@@ -67,17 +67,11 @@ sh model/server.sh
 # Similar to above, adjust the script for SPOC evaluation
 ```
 
-To properly cite the paper associated with your GitHub repository in the README, you can add a "References" section at the end. Here is how you could format it:
-
----
-
 ## References
 
 Xu, Z., Sheng, V. S., & Lu, K. (2023). Logic Error Localization and Correction with Machine Learning (Student Abstract). Proceedings of the AAAI Conference on Artificial Intelligence, 37(13), 16372-16373. [https://doi.org/10.1609/aaai.v37i13.27046](https://doi.org/10.1609/aaai.v37i13.27046)
 
 ---
-
-This citation provides readers with the source of the academic foundation and insights that guided the development of your project.
 
 ## License
 
