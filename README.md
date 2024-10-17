@@ -1,8 +1,8 @@
-# LogicerrorRepair
+# Logic-error-localization-and-correction-with-machine-learning
 
 ## Overview
 
-LogicerrorRepair is a sophisticated machine learning system designed to localize and correct logic errors in code. It leverages state-of-the-art techniques, including graph neural networks and pseudocode analysis, to improve the accuracy of automated program repair. This repository includes scripts for data preparation, model training, and evaluation, reflecting the comprehensive methodology discussed in "Logic Error Localization and Correction with Machine Learning."
+This is a sophisticated machine learning system designed to localize and correct logic errors in code. It leverages state-of-the-art techniques, including graph neural networks and pseudocode analysis, to improve the accuracy of automated program repair. This repository includes scripts for data preparation, model training, and evaluation, reflecting the comprehensive methodology discussed in "Logic Error Localization and Correction with Machine Learning."
 
 ## Getting Started
 
