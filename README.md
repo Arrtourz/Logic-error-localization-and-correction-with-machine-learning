@@ -68,11 +68,12 @@ sh model/server.sh
 ```
 
 ## References
-
+  ```
 Xu, Z., Sheng, V. S., & Lu, K. (2023). Logic Error Localization and Correction with Machine Learning (Student Abstract). Proceedings of the AAAI Conference on Artificial Intelligence, 37(13), 16372-16373. [https://doi.org/10.1609/aaai.v37i13.27046](https://doi.org/10.1609/aaai.v37i13.27046)
-
+  ```
+  ```
 Xu, Z., & Sheng, V. S. (2023, December). Enhancing Logic Error Detection Through Program Pseudocodes. In 2023 30th Asia-Pacific Software Engineering Conference (APSEC) (pp. 643-644). IEEE.
-
+  ```
 ## Acknowledgments
 
 This project, LogicerrorRepair, modifies and extends the work originally presented in "DrRepair: Learning to Repair Programs from Error Messages" by Michihiro Yasunaga and Percy Liang. The foundational work introduces a graph-based, self-supervised program repair method leveraging diagnostic feedback, as detailed in their ICML 2020 paper. We express our gratitude for the insights and source code provided by their work, which has significantly influenced the development of our system.
